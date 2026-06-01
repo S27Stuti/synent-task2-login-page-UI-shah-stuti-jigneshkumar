@@ -1,0 +1,75 @@
+
+#div1{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    height: 600px;
+    width: 400px;
+background-color: white;
+border-radius: 25px;
+
+}
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #f2f4f8; /* optional nice background */
+}
+#p1{
+    padding-right: 58%;
+}
+#p2{
+    padding-right: 52%;
+}
+button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width:280px;
+    border-radius: 11px;
+    cursor: pointer;
+}
+button:hover{
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+input {
+    width: 65%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+
+input:hover,
+input:focus {
+    border: 1px solid black;
+    cursor: pointer;
+}
+#p3{
+    padding-left: 155px;
+}
+#p3:hover{
+    font-weight: bolder;
+}
+#span1:hover{
+font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ #p4{
+                padding-right: 52%;
+            }
+             #p5{
+                padding-right: 38%;
+            }
