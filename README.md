@@ -5,12 +5,13 @@ A simple authentication user interface built using HTML, CSS, and JavaScript. Th
 
 ## Project Demo
 
-🎥 YouTube Demo Video:
-https://youtu.be/jVjbGDiZmPY
+🎥 YouTube Demo Video: https://youtu.be/jVjbGDiZmPY
 
 ## Documentation
 
 📄 Project Report: Available in this repository
+
+📝 Internship Blog: https://medium.com/@stutu2004shah/my-web-development-internship-journey-at-synent-technologies-8b5065f1eb9d
 
 ## 🚀 Live Demo
 
