@@ -3,6 +3,15 @@
 
 A simple authentication user interface built using HTML, CSS, and JavaScript. The project includes Login, Signup, and Forgot Password pages with basic frontend validation and page navigation.
 
+## Project Demo
+
+🎥 YouTube Demo Video:
+https://youtu.be/jVjbGDiZmPY
+
+## Documentation
+
+📄 Project Report: Available in this repository
+
 ## 🚀 Live Demo
 
 🔗 Live Website: https://ornate-raindrop-502281.netlify.app/
